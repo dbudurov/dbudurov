@@ -24,7 +24,7 @@
 ```ts
 const dmytro = {
   name     : "Dmytro Budurov",
-  role     : "Frontend Developer",
+  role     : "Software Engineer",
   location : "Sofia, Bulgaria 🇧🇬",
   edu      : "BSc Information Systems — FMI @ Sofia University (2021–2026)",
   status   : "🟢 Open to new opportunities",
